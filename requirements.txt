@@ -1,3 +1,4 @@
 urlextract
 emoji
 regex
+seaborn
