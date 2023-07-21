@@ -2,3 +2,4 @@ urlextract
 emoji
 regex
 seaborn
+wordcloud
